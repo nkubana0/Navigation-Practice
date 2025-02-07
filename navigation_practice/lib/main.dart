@@ -51,6 +51,11 @@ class ProductListScreen extends StatelessWidget {
         description: "A compact and portable USB storage device",
         price: 100,
         color: Colors.brown),
+    Product(
+        name: "Floppy Drive",
+        description: "A floppy disk storage device",
+        price: 20,
+        color: Colors.purple),
   ];
 
   @override
