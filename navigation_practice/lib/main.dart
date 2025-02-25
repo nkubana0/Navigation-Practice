@@ -15,6 +15,7 @@ class ProductApp extends StatelessWidget {
   }
 }
 
+
 class Product {
   final String name;
   final String description;
